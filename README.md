@@ -22,7 +22,7 @@ This repository contains documentation and findings of the Quadrature Down Conve
 1. Navigate to each section's folder for detailed documentation and results.
 2. Access the project report PDF for a comprehensive overview of the entire project.
 
-## Notes
+## Note:
 - Follow instructions in the project report for LTSpice simulations and lab experiments.
 - Ensure correct LTSpice setup using provided model files (TSMC 180nm.txt and UA741.301).
 
