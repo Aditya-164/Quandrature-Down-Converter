@@ -11,8 +11,8 @@ This repository contains documentation and findings of the Quadrature Down Conve
 
 ## Project Structure
 - **Introduction:**
-- - Overview of Frequency-down converters and the role of mixers.
-- - Down conversion equations and challenges.
+  - Overview of Frequency-down converters and the role of mixers.
+  - Down conversion equations and challenges.
 - **Quadrature Oscillator Design:** Detailed discussion on designing a quadrature oscillator using opamps. This oscillator generates two sinusoidal signals with a 90° phase difference at 100 kHz. The section covers topology, calculations for component values, LTSpice simulations, and real-world implementation in the lab with observations.
 - **Switch (Mixer) Design:** Exploration of a simple MOSFET-based mixer design. The mixer takes oscillator signals as inputs and produces intermediate frequency (IF) outputs. The section includes LTSpice simulations for various input frequencies and real-world experiments with corresponding component values.
 - **Low Pass Filter Design:** Introduction to low pass filters (LPF) and the design of an RC LPF with a -3 dB cut-off frequency of 2 kHz. The section covers calculations for component values, LTSpice simulations for frequency and transient response, and practical implementation in the lab with measurement results.
